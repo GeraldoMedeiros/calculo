@@ -1,3 +1,3 @@
 # calculo
 ## derivada
-### regra da cadeia
+* regra da cadeia
